@@ -1,0 +1,35 @@
+#footer{
+	text-align: right;
+	padding-right: 40px;
+	font-size: 20px;
+}
+
+#header	{
+	text-align: center;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+
+#bold {
+	font-size: 50px;
+}
+
+#space	{
+	margin-left: 50px;
+}
+
+#article {
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	margin-left: 30px;
+	line-height: 2;
+}
+
+li {
+	font-size: 25px;
+	font-family: 'Indie Flower', cursive;
+	line-height: 2;
+}
+
+body {
+	background-color: #c0392b;
+}
